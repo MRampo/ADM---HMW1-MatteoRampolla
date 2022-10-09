@@ -1,4 +1,4 @@
-# ADM---HMW1-MatteoRampolla
+# ADM-HMW1-MatteoRampolla
 The first homework of ADM 
 
 ## Repository Content
